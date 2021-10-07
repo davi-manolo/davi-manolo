@@ -1,9 +1,9 @@
 ## Ola! Bem vindo ao meu GitHub ☕️
 * 👨🏻‍💻 Java Developer Engineer
-* ❤️ *Apaixonado por Java*
-* 🎨 Atração por UI/UX
-* 👨🏻‍🎓 Estudante de ADS
-* 📚 Consumidor de cursos
+* ❤️ ***Apaixonado por Java (Desktop/Web/Mobile)**
+* 🎨 *Atração por UI/UX*
+* 👨🏻‍🎓 *Estudante de ADS*
+* 📚 *Consumidor de cursos de TI*
 
 <div>
   <a href="https://github.com/davi-manolo">
