@@ -1,5 +1,5 @@
 ## Ola! Bem vindo ao meu GitHub ☕️
-* 👨🏻‍💻 Java Developer Engineer
+* 👨🏻‍💻 *Java Developer Engineer*
 * ❤️ **_Apaixonado por Java (Desktop/Web/Mobile)_**
 * 🎨 *Atração por UI/UX*
 * 👨🏻‍🎓 *Estudante de ADS*
