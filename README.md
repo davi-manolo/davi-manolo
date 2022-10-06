@@ -2,7 +2,7 @@
 * 👨🏻‍💻 *Java Developer Engineer*
 * ❤️ **_Apaixonado por Java (Desktop/Web/Mobile)_**
 * 🎨 *Atração por UI/UX*
-* 👨🏻‍🎓 *Estudante de ADS*
+* 👨🏻‍🎓 *Graduado em Análise e Desenvolvimento de Sistemas*
 * 📚 *Consumidor de cursos de TI*
 
 <div>
