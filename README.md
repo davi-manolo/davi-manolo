@@ -1,6 +1,6 @@
 ## Ola! Bem vindo ao meu GitHub ☕️
 * 👨🏻‍💻 *Java Developer Engineer*
-* ❤️ **_Apaixonado por Java (Desktop/Web/Mobile)_**
+* ❤️ **_Apaixonado por Java e Angular_**
 * 🎨 *Atração por UI/UX*
 * 👨🏻‍🎓 *Graduado em Análise e Desenvolvimento de Sistemas*
 * 📚 *Consumidor de cursos de TI*
